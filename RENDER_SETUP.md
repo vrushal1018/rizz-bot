@@ -45,7 +45,7 @@ In Render dashboard, add these variables:
 DISCORD_TOKEN=your_discord_bot_token
 DISCORD_CLIENT_ID=your_discord_client_id
 DISCORD_GUILD_ID=your_discord_guild_id
-MONGODB_URI=mongodb+srv://vrushpachupate:your_password@cluster0.ejzprfc.mongodb.net/quotient_bot?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://vrushpachupate:vrushal05@cluster0.ejzprfc.mongodb.net/quotient_bot?retryWrites=true&w=majority&appName=Cluster0
 ```
 
 #### **Optional Variables:**
