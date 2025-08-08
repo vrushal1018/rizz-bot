@@ -8,7 +8,8 @@
     "dev": "nodemon src/index.js",
     "test": "jest",
     "deploy": "node deploy.js",
-    "uptime": "node uptime-service.js"
+    "uptime": "node uptime-service.js",
+    "test-mongo": "node test-mongo.js"
   },
   "keywords": ["discord", "bot", "esports", "tournament", "scrim", "gaming"],
   "author": "Quotient Bot Team",
